@@ -24,8 +24,33 @@ Highly versatile Data Analyst leveraging expertise in SQL, Power BI, and Python 
 
 ### Badges
 
-<b>Top Repositories</b>
+### 📌 Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/Htethtetoowaii//Spatio-Temporal Analysis and Forecasting of Air Quality in Six Philippine Cities Using Machine Learning" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii/&repo=Spatio-Temporal Analysis and Forecasting of Air Quality in Six Philippine Cities Using Machine Learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Htethtetoowaii// Bank Marketing Subscription Prediction Using Machine Learning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii/&repo= Bank Marketing Subscription Prediction Using Machine Learning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div align="center">
 
-<a href="https://github.com/Htethtetoowaii//Loan Approval Prediction Using SAS" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii/&repo=Loan Approval Prediction Using SAS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<a href="https://github.com/Htethtetoowaii/Airqualityproject">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Airqualityproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</a>
+
+<a href="https://github.com/Htethtetoowaii/Bankmarketing">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Bankmarketing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Htethtetoowaii/Loanproject">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Loanproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+</a>
+
+</div>
+
+### 📂 Project Links
+
+**Loan Approval Prediction Project**  
+🔗 GitHub: https://github.com/Htethtetoowaii/Loanproject  
+
+**Bank Marketing Subscription Prediction**  
+🔗 GitHub: https://github.com/Htethtetoowaii/Bankmarketing  
+
+**Spatio-Temporal Predictive Modeling of Air Quality**  
+🔗 GitHub: https://github.com/Htethtetoowaii/Airqualityproject  
