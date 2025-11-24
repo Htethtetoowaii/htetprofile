@@ -28,39 +28,20 @@ Highly versatile Data Analyst leveraging expertise in SQL, Power BI, and Python 
 
 <div align="center">
 
-<!-- Air Quality Project -->
 <a href="https://github.com/Htethtetoowaii/Airqualityproject">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Airqualityproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 
-<br/>
-<p>
-Engineered an advanced spatio-temporal forecasting model using Random Forest, GBM, and LSTM in Python to increase prediction accuracy to 90% for urban air pollution across six cities.
-</p>
-
-<br/><br/>
-
-<!-- Bank Marketing Project -->
 <a href="https://github.com/Htethtetoowaii/Bankmarketing">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Bankmarketing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 
-<br/>
-<p>
-Programmed and forecasted customer subscriptions to term deposits using ensemble ML models such as Random Forest, resulting in an 8% increase in campaign conversion rates.
-</p>
-
 <br/><br/>
 
-<!-- Loan Project -->
 <a href="https://github.com/Htethtetoowaii/Loanproject">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Loanproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
 </a>
 
-<br/>
-<p>
-Engineered a hybrid machine learning system using Python and Pandas to model loan approvals, boosting decision-making efficiency by 20% and achieving 92% predictive accuracy.
-</p>
-
 </div>
 
+---
