@@ -24,24 +24,9 @@ Highly versatile Data Analyst leveraging expertise in SQL, Power BI, and Python 
 
 ### Badges
 
-### 📌 Top Repositories
-
-<div align="center">
-
-<a href="https://github.com/Htethtetoowaii/Airqualityproject">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Airqualityproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-<a href="https://github.com/Htethtetoowaii/Bankmarketing">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Bankmarketing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
+📌 Top Repositories
+<div align="center"> <a href="https://github.com/Htethtetoowaii/Airqualityproject"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Airqualityproject&theme=radical&hide_border=true" /> </a> <a href="https://github.com/Htethtetoowaii/Bankmarketing"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Bankmarketing&theme=radical&hide_border=true" /> </a>
 
 <br/><br/>
 
-<a href="https://github.com/Htethtetoowaii/Loanproject">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Loanproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-</a>
-
-</div>
-
----
+<a href="https://github.com/Htethtetoowaii/Loanproject"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Loanproject&theme=radical&hide_border=true" /> </a> </div>
