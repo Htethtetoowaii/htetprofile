@@ -25,8 +25,12 @@ Highly versatile Data Analyst leveraging expertise in SQL, Power BI, and Python 
 ### Badges
 
 📌 Top Repositories
-<div align="center"> <a href="https://github.com/Htethtetoowaii/Airqualityproject"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Airqualityproject&theme=radical&hide_border=true" /> </a> <a href="https://github.com/Htethtetoowaii/Bankmarketing"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Bankmarketing&theme=radical&hide_border=true" /> </a>
 
-<br/><br/>
+Airqualityproject
+ — Spatio-Temporal Predictive Modeling of Air Quality
 
-<a href="https://github.com/Htethtetoowaii/Loanproject"> <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Loanproject&theme=radical&hide_border=true" /> </a> </div>
+Bankmarketing
+ — Machine Learning Model for Bank Marketing Campaign Analysis
+
+Loanproject
+ — Loan Approval Prediction using Classification Models
