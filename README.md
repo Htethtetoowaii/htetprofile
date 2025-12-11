@@ -27,10 +27,8 @@ Highly versatile Data Analyst leveraging expertise in SQL, Power BI, and Python 
 ## 📌 Top Repositories
 
 ### 🔗 [Airqualityproject](https://github.com/Htethtetoowaii/Airqualityproject)
-![Airqualityproject](https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Airqualityproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
 ### 🔗 [Bankmarketing](https://github.com/Htethtetoowaii/Bankmarketing)
-![Bankmarketing](https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Bankmarketing&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
 
 ### 🔗 [Loanproject](https://github.com/Htethtetoowaii/Loanproject)
-![Loanproject](https://github-readme-stats.vercel.app/api/pin/?username=Htethtetoowaii&repo=Loanproject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+
